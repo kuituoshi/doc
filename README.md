@@ -33,7 +33,7 @@
 "order_time": "请求时间"
 "order_money": "订单金额,单位元"
 "product_name": "商品名称"
-"pay_type_id": "支付码,参考商户后台支付通道列表里面的支付码"
+"pay_type_id": "支付码,参考支付编码文档"
 "order_no": "商户交易号（订单号）,商户自己平台的订单号"
 "pay_ip": "提交IP地址"
 "bank_code": "银行编码 "网银必须传,扫码可不传""
